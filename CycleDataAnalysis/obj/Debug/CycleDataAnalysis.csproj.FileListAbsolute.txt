@@ -1,0 +1,106 @@
+F:\Visual-Studio-2015\Projects\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\CycleDataAnalysis.exe.config
+F:\Visual-Studio-2015\Projects\CycleDataAnalysis\CycleDataAnalysis\obj\Debug\CycleDataAnalysis.csprojResolveAssemblyReference.cache
+F:\Visual-Studio-2015\Projects\CycleDataAnalysis\CycleDataAnalysis\obj\Debug\CycleDataAnalysis.Properties.Resources.resources
+F:\Visual-Studio-2015\Projects\CycleDataAnalysis\CycleDataAnalysis\obj\Debug\CycleDataAnalysis.csproj.GenerateResource.Cache
+F:\Visual-Studio-2015\Projects\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\CycleDataAnalysis.exe
+F:\Visual-Studio-2015\Projects\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\CycleDataAnalysis.pdb
+F:\Visual-Studio-2015\Projects\CycleDataAnalysis\CycleDataAnalysis\obj\Debug\CycleDataAnalysis.exe
+F:\Visual-Studio-2015\Projects\CycleDataAnalysis\CycleDataAnalysis\obj\Debug\CycleDataAnalysis.pdb
+F:\Visual-Studio-2015\Projects\CycleDataAnalysis\CycleDataAnalysis\obj\Debug\CycleDataAnalysis.Form1.resources
+C:\Users\Deepanjan\Documents\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\CycleDataAnalysis.exe.config
+C:\Users\Deepanjan\Documents\CycleDataAnalysis\CycleDataAnalysis\obj\Debug\CycleDataAnalysis.exe
+C:\Users\Deepanjan\Documents\CycleDataAnalysis\CycleDataAnalysis\obj\Debug\CycleDataAnalysis.pdb
+C:\Users\Deepanjan\Documents\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\CycleDataAnalysis.exe
+C:\Users\Deepanjan\Documents\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\CycleDataAnalysis.pdb
+C:\Users\Deepanjan\Documents\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\ZedGraph.dll
+C:\Users\Deepanjan\Documents\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\ZedGraph.xml
+C:\Users\Deepanjan\Documents\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Deepanjan\Documents\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Deepanjan\Documents\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Deepanjan\Documents\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Deepanjan\Documents\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Deepanjan\Documents\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Deepanjan\Documents\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Deepanjan\Documents\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Deepanjan\Documents\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Deepanjan\Documents\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Deepanjan\Documents\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Deepanjan\Documents\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Deepanjan\Documents\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Deepanjan\Documents\CycleDataAnalysis\CycleDataAnalysis\obj\Debug\CycleDataAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\Deepanjan\Documents\CycleDataAnalysis\CycleDataAnalysis\obj\Debug\CycleDataAnalysis.Form1.resources
+C:\Users\Deepanjan\Documents\CycleDataAnalysis\CycleDataAnalysis\obj\Debug\CycleDataAnalysis.Properties.Resources.resources
+C:\Users\Deepanjan\Documents\CycleDataAnalysis\CycleDataAnalysis\obj\Debug\CycleDataAnalysis.csproj.GenerateResource.Cache
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\CycleDataAnalysis.exe.config
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\CycleDataAnalysis.exe
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\CycleDataAnalysis.pdb
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\ZedGraph.dll
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\ZedGraph.xml
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\CycleDataAnalysis\CycleDataAnalysis\obj\Debug\CycleDataAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\CycleDataAnalysis\CycleDataAnalysis\obj\Debug\CycleDataAnalysis.Form1.resources
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\CycleDataAnalysis\CycleDataAnalysis\obj\Debug\CycleDataAnalysis.Properties.Resources.resources
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\CycleDataAnalysis\CycleDataAnalysis\obj\Debug\CycleDataAnalysis.csproj.GenerateResource.Cache
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\CycleDataAnalysis\CycleDataAnalysis\obj\Debug\CycleDataAnalysis.exe
+C:\Users\Deepanjan\Documents\Visual Studio 2015\Projects\CycleDataAnalysis\CycleDataAnalysis\obj\Debug\CycleDataAnalysis.pdb
+C:\Users\c3442857\Downloads\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\CycleDataAnalysis.exe.config
+C:\Users\c3442857\Downloads\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\obj\Debug\CycleDataAnalysis.exe
+C:\Users\c3442857\Downloads\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\obj\Debug\CycleDataAnalysis.pdb
+C:\Users\c3442857\Downloads\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\CycleDataAnalysis.exe
+C:\Users\c3442857\Downloads\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\CycleDataAnalysis.pdb
+C:\Users\c3442857\Downloads\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\ZedGraph.dll
+C:\Users\c3442857\Downloads\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\ZedGraph.xml
+C:\Users\c3442857\Downloads\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\c3442857\Downloads\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\c3442857\Downloads\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\c3442857\Downloads\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\c3442857\Downloads\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\c3442857\Downloads\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\c3442857\Downloads\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\c3442857\Downloads\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\c3442857\Downloads\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\c3442857\Downloads\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\c3442857\Downloads\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\c3442857\Downloads\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\c3442857\Downloads\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\c3442857\Downloads\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\obj\Debug\CycleDataAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\c3442857\Downloads\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\obj\Debug\CycleDataAnalysis.Form1.resources
+C:\Users\c3442857\Downloads\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\obj\Debug\CycleDataAnalysis.Properties.Resources.resources
+C:\Users\c3442857\Downloads\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\obj\Debug\CycleDataAnalysis.csproj.GenerateResource.Cache
+F:\Visual-Studio-2015\Projects\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\CycleDataAnalysis.exe.config
+F:\Visual-Studio-2015\Projects\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\obj\Debug\CycleDataAnalysis.exe
+F:\Visual-Studio-2015\Projects\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\obj\Debug\CycleDataAnalysis.pdb
+F:\Visual-Studio-2015\Projects\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\CycleDataAnalysis.exe
+F:\Visual-Studio-2015\Projects\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\CycleDataAnalysis.pdb
+F:\Visual-Studio-2015\Projects\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\ZedGraph.dll
+F:\Visual-Studio-2015\Projects\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\ZedGraph.xml
+F:\Visual-Studio-2015\Projects\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\de\ZedGraph.resources.dll
+F:\Visual-Studio-2015\Projects\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\es\ZedGraph.resources.dll
+F:\Visual-Studio-2015\Projects\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\fr\ZedGraph.resources.dll
+F:\Visual-Studio-2015\Projects\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\hu\ZedGraph.resources.dll
+F:\Visual-Studio-2015\Projects\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\it\ZedGraph.resources.dll
+F:\Visual-Studio-2015\Projects\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\ja\ZedGraph.resources.dll
+F:\Visual-Studio-2015\Projects\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\pt\ZedGraph.resources.dll
+F:\Visual-Studio-2015\Projects\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\ru\ZedGraph.resources.dll
+F:\Visual-Studio-2015\Projects\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\sk\ZedGraph.resources.dll
+F:\Visual-Studio-2015\Projects\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\sv\ZedGraph.resources.dll
+F:\Visual-Studio-2015\Projects\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\tr\ZedGraph.resources.dll
+F:\Visual-Studio-2015\Projects\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\Visual-Studio-2015\Projects\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\Visual-Studio-2015\Projects\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\obj\Debug\CycleDataAnalysis.Form1.resources
+F:\Visual-Studio-2015\Projects\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\obj\Debug\CycleDataAnalysis.Properties.Resources.resources
+F:\Visual-Studio-2015\Projects\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\obj\Debug\CycleDataAnalysis.csproj.GenerateResource.Cache
+F:\Visual-Studio-2015\Projects\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\obj\Debug\CycleDataAnalysis.Form2.resources
+F:\Visual-Studio-2015\Projects\CycleDataAnalysis-ASEB-c3442857\CycleDataAnalysis\CycleDataAnalysis\obj\Debug\CycleDataAnalysis.csprojResolveAssemblyReference.cache
